@@ -15,9 +15,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+
+    "f": "node src/fff.js",
+    "ff": "node src/fff.js Ihar 33"
   },
-  
   "browserslist": {
     "production": [
       ">0.2%",
